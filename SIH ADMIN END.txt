@@ -1,0 +1,24 @@
+ADMIN IS A MUNICIPAL CORPORATION WORKER!!!!!
+SHOULD NOT ASK DEPARTMENT NAME ON LOGIN
+EXTRA ADD:THE ADMIN SHOULD HAVE this in issue management: FOR ALL INCOMING REPORTS WITH Navigation bars:New reports,Assigned,Resolved reports...Every navigation bar would have a category filter:Roads,Sanitation,water,electricity AND a sort by:time and another filter by ward(in that filter,there should be a dropdown to select a ward,a search bar to search for that ward).
+NOTE,ALL INCOMING REPORTS SHOULD HAVE 3 Extra options:Assign(just a button that activates the auto routing engine),reassign to different departments, a delete button(deletes the report off the record,sends a notification to the user).
+After clicking assign button,that report should vanish from the new reports bar,then appear in assigned bar,then after issue gets resolved(final stop is image for confirmation uploaded by admin),issue vanishes from assigned bar to appear in resolved bar.
+if issue is reopend(escalated) then it should come back to new reports with an escalated tag.
+
+In user management,the admin should be able to just add a new spectator,rest is fine.
+
+In user management>citizens>registered citizens:There should be a search by: user name,user id,phone number.Then a sort by with:alphabetical order.There should also be a button whose sole job is to block a user.
+
+In analytics and reports,remove citizen satisfaction.
+
+In analytics and reports,inside ward-wise distribution:there should be a scroll down slider,a search bar for searching specific wards.On clicking a ward,it should redirect to issue manegment>wards filter->a specific ward.
+
+In analytics and reports,there should be graphs,pie charts.
+
+in special boards,add another navigation bar for clustered reports(will happen at the backend).
+
+
+
+
+MOBILE APP ADDITION:REOPEN AN ISSUE FROM NOTIFICATION AND MY REPORTS.
+
