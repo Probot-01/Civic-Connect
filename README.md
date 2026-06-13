@@ -98,12 +98,6 @@ npm run dev
 | Admin | http://localhost:5174 |
 | Overlooker | http://localhost:5175 |
 
-> **Note:** Supabase environment variables are required for the Citizen portal. Create a `.env` file in `/citizen` with your Supabase project URL and anon key.
-
-```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
 
 ---
 
